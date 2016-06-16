@@ -1,0 +1,12 @@
+ <h2>Contact</h2>
+        <p>Please email support@computersolutions.fake</p>
+        <h3>Locations</h3>
+        <div ng-repeat="location in locations">
+        <ul class="location">
+          <li><h4>{{ location.name }}</h4></li>
+          <li>{{ location.street_add }}</li>
+          <li>{{ location.city }}, {{ location.zip }} </li>
+          <li>{{ location.phone }}</li>
+        </ul>
+        < br />
+        </div>

@@ -1,0 +1,23 @@
+[ {
+    "id" : 1,
+    "name" : "Lynn Location", 
+    "street_add" : "555 Western Ave",
+    "city" : "Lynn",
+    "state" : "MA",
+    "zip" : "01902",
+    "phone" : "781-555-5555"
+},
+{
+    "id" : 2,
+    "name" : "Boston Location", 
+    "street_add" : "77 Mass Ave",
+    "city" : "Boston",
+    "state" : "MA",
+    "zip" : "01912",
+    "phone" : "617-555-5555"
+}
+  
+  
+  
+  
+]

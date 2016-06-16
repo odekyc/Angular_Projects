@@ -1,0 +1,22 @@
+[{
+  "id" : 1,
+  "name" : "Hardware Repairs",
+  "description" : "Hardware repair technicians repair physical equipment such as computer hardware, office machinery, laptops, automatic teller machines (ATMs) and desktop computers. Read on for some pros and cons of working as a hardware repair technician to see if it seems like the right fit for you.",
+  "image" : "computer-icon.png"
+  
+},
+{
+  "id" : 2,
+  "name" : "Virus Removal",
+  "description" : "Why take on the hassle of hunting down pesky pop-ups, Trojans and cyber-bugs when you can have an expert do it quickly and easily? You can even ask them questions while they work! So, relax and leave the dirty work to us.",
+  "image" : "computer-icon.png"
+  
+},
+{
+  "id" : 3,
+  "name" : "System Tuneup",
+  "description" : "Is your computer running slow? If you’re experiencing slowdowns when trying to complete simple tasks on your computer, you most likely need a computer tune-up. Similar to many other machines, like a car, your computer needs regular maintenance and cleanups to ensure it’s running at its highest potential.",
+  "image" : "computer-icon.png"
+  
+}
+]
