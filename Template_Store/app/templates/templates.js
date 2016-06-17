@@ -30,5 +30,10 @@ angular.module('templateStore.templates', [ 'ngRoute'])
 		$scope.mainImage=$scope.mytemplate.image[0];
 
 	});
+
+	$scope.setImg=function(selectedImg){
+
+		$scope.mainImage=selectedImg;
+	}
 	
 }])
