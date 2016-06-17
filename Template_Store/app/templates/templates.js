@@ -22,9 +22,12 @@ angular.module('templateStore.templates', [ 'ngRoute'])
 	var templateId= $routeParams.templateId;
 	$http.get('/JSON/templates.json').success(function(response){
 		console.log("success response");
+
 		$scope.mytemplate=$filter('filter')(response, function(d){
              return d.id == templateId;
 		})[0];
+
+		$scope.mainImage=$scope.mytemplate.image[0];
 
 	});
 	
