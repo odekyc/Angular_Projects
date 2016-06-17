@@ -1,0 +1,47 @@
+[
+{
+
+	"id" : 1,
+	"name" : "Lotus Blossom",
+	"price" : 30.99,
+    "description" : "The Lotus is a sacred flower for Hindus and Buddhists. It is symbolically equal to the Buddha for Buddhists. The Lotus (Nelumbo nucifera) symbolizes purity, beauty, majesty, grace, fertility, wealth, richness, knowledge and serenity. The Pink Lotus is the National Flower of India.",
+    "image" : "../img/lotusblossom.jpg"
+},
+{
+	"id" : 2,
+	"name" : "Green Leisure",
+	"price" : 20.99,
+	"description" : "Greenskeepers keep ponds free of aquatic weeds and sometimes dye water blue. Tee for the first hole at The Links at Spanish Bay. Tees are mowed almost daily by a Greenskeeper when grass is growing.",
+	"image" : "../img/green.jpg"
+},
+{
+	"id" : 3,
+	"name" : "Stones and Pebbles",
+	"price" : 20.99,
+	"description" : "Using pebbles in a garden brings different colors and textures to the garden. Pebbles can fill up otherwise empty space, leaving a visual impression that's more interesting than simple dirt, soil or mulch. Pebbles can serve other purposes, such as creating a decorative border, landscaped path, or a pretty ground and soil cover. In order to best pebble a garden, it's important to clear a space for pebbles, choose the pebbles, and put the pebbles into the garden space.",
+	"image" : "../img/stones.jpg"
+},
+{
+	"id" : 4,
+	"name" : "Alps",
+	"price" : 30.99,
+	"description" : "The Alps are the highest and most extensive mountain range system that lies entirely in Europe, stretching approximately 1,200 kilometres (750 mi) across eight Alpine countries: Austria, France, Germany, Italy, Liechtenstein, Monaco, Slovenia, and Switzerland.",
+	"image" : "../img/alps.jpg"
+},
+{
+	"id" : 5,
+	"name" : "Sunset",
+	"price" : 30.99,
+	"description" : "The time of sunset is defined in astronomy as the moment when the trailing edge of the Sun's disk disappears below the horizon. Near to the horizon, atmospheric refraction causes the ray path of light from the Sun to be distorted to such an extent that geometrically the Sun's disk is already about one diameter below the horizon when sunset is observed.",
+	"image" : "../img/sunset.jpg"
+},
+{
+	"id" : 6,
+	"name" : "Green Veggies",
+	"price" : 30.99,
+	"description" : "Leaf vegetables, also called potherbs, greens, vegetable greens, leafy greens, or salad greens, are plant leaves eaten as a vegetable, sometimes accompanied by tender petioles and shoots. Although they come from a very wide variety of plants, most share a great deal with other leaf vegetables in nutrition and cooking methods.",
+	"image" : "../img/greenveg.jpg"
+}
+
+
+]
