@@ -78,6 +78,8 @@ angular.module('myContacts.contacts', ['ngRoute', 'firebase'])
 
         });
     }
+
+
     
     $scope.showContact=function(curcontact){
         console.log("getting contact");
@@ -94,6 +96,7 @@ angular.module('myContacts.contacts', ['ngRoute', 'firebase'])
 
         $scope.contactShow=true;
     }
+    
     var clearFields=function(){
         console.log("clear fields....");
          $scope.name='';
